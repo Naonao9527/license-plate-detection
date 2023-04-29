@@ -1,0 +1,7 @@
+logs/
+__pycache__/
+model_data/
+VOCdevkit/ImageSets/Main/
+VOCdevkit/VOC2007/Annotations/
+VOCdevkit/VOC2007/JPEGimages/
+*.txt
